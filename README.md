@@ -30,7 +30,7 @@ i.e.
 
 - How do you run tests?
 
-We created a test 'function' that allowed.
+We created a test 'function' that allowed!!
 
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
